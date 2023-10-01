@@ -28,7 +28,7 @@ To install and run the system, follow these steps:
 1. Clone the repository:
 
 ```
-git clone 
+git clone https://github.com/apo-orvv/PARAKH-AI.git
 ```
 
 2. Install the dependencies:
