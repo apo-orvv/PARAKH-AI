@@ -1,6 +1,4 @@
-Title: 
-
-## GitHub README
+## PARAKH-AI
 
 ### Overview
 
@@ -58,13 +56,13 @@ Enter your MySQL password when prompted.
 4. Create a database for the system:
 
 ```
-CREATE DATABASE ;
+CREATE DATABASE parakh-ai;
 ```
 
 5. Import the database schema:
 
 ```
-mysql  < .sql
+mysql parakh-ai < db.sql
 ```
 
 6. Start the Flask server:
